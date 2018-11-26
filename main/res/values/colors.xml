@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="grey">#2b2b2b</color>
+    <color name="gradient_start">#FF0404</color>
+    <color name="gradient_end">#FFB131</color>
+    <color name="titlebackgroundcolor"><gradient
+        android:startColor="@color/gradient_start"
+        android:endColor="@color/gradient_end"/> </color>
+        //android:angle="-270"
+
+
+</resources>

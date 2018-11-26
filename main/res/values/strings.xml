@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Advanced Audio</string>
+    <string name="playButton">Press to play audio</string>
+    <string name="pauseButton">Press to pause audio</string>
+    <string name="stopButton">Press to stop audio</string>
+    <string name="albumArt">Album Artwork</string>
+</resources>
